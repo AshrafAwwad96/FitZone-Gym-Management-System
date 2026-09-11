@@ -1,18 +1,17 @@
 FitZone Gym Management System
-A gym management database system developed using PostgreSQL and PL/pgSQL.
+
+A relational database system for a gym management platform, designed and implemented in PostgreSQL with a PL/pgSQL programming layer for business logic, automation, and auditing.
 
 Technologies
 PostgreSQL
 SQL
 PL/pgSQL
 Concepts Applied
-Database Design
-ERD
+Database Design & Entity-Relationship Modeling (ERD)
 Normalization
-Relationships
-SQL Queries
-Functions
-Procedures
-Triggers
+Table Relationships (1:1, 1:N, Self-Referencing)
+SQL Querying (Joins, Aggregation, Subqueries)
+Functions & Stored Procedures
+Triggers & Business Rule Enforcement
 Exception Handling
 Audit Logging
